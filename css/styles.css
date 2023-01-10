@@ -1,0 +1,10 @@
+body{
+    background-color:bisque;
+}
+
+hr{
+    width: 10%;
+    border-style: none;
+    background-color: bisque;
+    border-top: 10px dotted grey;
+}
